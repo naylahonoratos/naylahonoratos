@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, eu sou a Nayla Honorato!👋
+
+- 🔭 Atualmente estudante do curso Certified TechDeveloper da Digital House
+- 📫 Contate-me através do email: naylahonorato@hotmail.com
+
+
+
 
 <!--
 **naylahonoratos/naylahonoratos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
